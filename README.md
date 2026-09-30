@@ -2,7 +2,7 @@
 <p align="center">Full‑stack developer building useful, reliable apps • Flutter, Python, PHP, JavaScript</p>
 
 <p align="center">
-  <a href="mailto:avilstan4@gmail.com"><img src="https://img.shields.io/badge/Email-avilstan1%40gmail.com-blue?style=for-the-badge"></a>
+  <a href="mailto:avilstan4@gmail.com"><img src="https://img.shields.io/badge/Email-avilstan4%40gmail.com-blue?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/stan-avil-dsouza16/"><img src="https://img.shields.io/badge/LinkedIn-Stan%20Avil%20Dsouza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/stan-avil-16?tab=repositories"><img src="https://img.shields.io/badge/GitHub-@stan--avil--16-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
